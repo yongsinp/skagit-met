@@ -103,6 +103,7 @@ jupyter_bokeh = ">=4.0.5,<5"
 ffmpeg = ">=7.1.1,<8"
 pillow = ">=11.2.1,<12"
 libgdal-netcdf = ">=3.10.3,<4"
+s3fs = ">=2026.2.0,<2027"
 
 [feature.analysis.target.osx-arm64.dependencies]
 libgfortran5 = ">=14"
